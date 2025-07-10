@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Olá 😎! Me chamo Oséias Gomes e sou Desenvolvedor full-stack, com prioridadeem front-end.</h2>
+<h2 align="center">Olá 😎! Me chamo Oséias Gomes e sou Desenvolvedor full-stack.</h2>
 
 ###
 
